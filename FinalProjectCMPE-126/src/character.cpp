@@ -714,6 +714,8 @@ void character::chooseclass(){
 	}
 }
 
+
+
 int character::gethealth(){
 	return health;
 }
